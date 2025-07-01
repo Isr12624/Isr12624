@@ -11,4 +11,3 @@
 - 😄 Pronouns: ...It's complicated
 - ⚡ Fun fact: ...I am not funny😶
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Isr12624&show_icons=true&theme=tokyonight)
