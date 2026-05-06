@@ -12,6 +12,7 @@
 - ⚡ Fun fact: ...I am not funny😶
 
 
-![Pacman](https://raw.githubusercontent.com/Isr12624/pacman-contribution-graph/output/pacman-contribution-graph.svg#gh-light-mode-only)
-![Pacman Dark](https://raw.githubusercontent.com/Isr12624/pacman-contribution-graph/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+![Pacman](https://raw.githubusercontent.com/Isr12624/Isr12624/output/pacman-contribution-graph.svg#gh-light-mode-only)
+![Pacman Dark](https://raw.githubusercontent.com/Isr12624/Isr12624/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
+
 
