@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-
-
 - 🔭 I’m currently working on ...Nothing
 - 🌱 I’m currently learning ...Nothing
 - 👯 I’m looking to collaborate on ...Anything
@@ -11,8 +9,9 @@
 - 😄 Pronouns: ...It's complicated
 - ⚡ Fun fact: ...I am not funny😶
 
-
 ![Pacman](https://raw.githubusercontent.com/Isr12624/Isr12624/output/pacman-contribution-graph.svg#gh-light-mode-only)
 ![Pacman Dark](https://raw.githubusercontent.com/Isr12624/Isr12624/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
 
 
+### Most used languages
+<img src="https://delete-it-topaz.vercel.app/api/top-langs/?username=Isr12624&include_all_commits=true&count_private=true&layout=compact&langs_count=6&hide_border=true" alt="most used language">
