@@ -18,6 +18,6 @@
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isr12624&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isr12624&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SharafatKarim&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Isr12624&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Isr12624&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isr12624&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SharafatKarim&theme=github_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Isr12624&theme=github_dark) ![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Isr12624&theme=github_dark)
