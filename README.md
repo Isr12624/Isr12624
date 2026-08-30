@@ -9,12 +9,6 @@
 - 😄 Pronouns: ...It's complicated
 - ⚡ Fun fact: ...I am not funny😶
 
-![Pacman](https://raw.githubusercontent.com/Isr12624/Isr12624/output/pacman-contribution-graph.svg#gh-light-mode-only)
-![Pacman Dark](https://raw.githubusercontent.com/Isr12624/Isr12624/output/pacman-contribution-graph-dark.svg#gh-dark-mode-only)
-
-
-![](https://raw.githubusercontent.com/Isr12624/Isr12624/main/github-metrics.svg)
-
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Isr12624&theme=github_dark)
 
